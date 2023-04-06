@@ -1,5 +1,6 @@
 class PairPractice
   def initialize
-    p "Garrett rocks!"
+    p "KD is too git to quit"
+		p "Garrett rocks!"
   end
 end
